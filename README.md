@@ -13,3 +13,5 @@ This repository is a simple demo for how to use llama.cpp server with SmolVLM 50
 3. Open `index.html`
 4. Optionally change the instruction (for example, make it returns JSON)
 5. Click on "Start" and enjoy
+
+Forked from [smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
